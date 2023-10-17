@@ -4,7 +4,7 @@ Wanlo One is a suite of applications and websites designed to make your life eas
 
 ---
 
-# How can I contribute?
+## How can I contribute?
 If it stops working randomly, it might be the API that I'm using which isn't always stable. 
 Shoot me a message via [email](mailto:ethan@wanlo.co) or [discord](https://discord.wanlo.co), I'll be happy to talk ;) 
 
